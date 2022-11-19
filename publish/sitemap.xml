@@ -2,102 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://vedecor.netlify.app/porta-retrato</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/vasos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/cachepot</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/garrafas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/copos-termicos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/organizacao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/bandejas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/utilidades-cozinha</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/budas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/home-office</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/decoracao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/canecas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/tacas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/coffe</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/bar-em-casa</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://vedecor.netlify.app/arranjos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://vedecor.netlify.app/caneca-motive-coffe</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1172,6 +1076,102 @@
     </url>
   
     <url>
+      <loc>https://vedecor.netlify.app/porta-retrato</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/vasos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/cachepot</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/garrafas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/copos-termicos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/organizacao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/bandejas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/utilidades-cozinha</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/budas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/home-office</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/decoracao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/canecas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/tacas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/coffe</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/bar-em-casa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://vedecor.netlify.app/arranjos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://vedecor.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1250,13 +1250,13 @@
     </url>
   
     <url>
-      <loc>https://vedecor.netlify.app/app/index</loc>
+      <loc>https://vedecor.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://vedecor.netlify.app/admin/index</loc>
+      <loc>https://vedecor.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
